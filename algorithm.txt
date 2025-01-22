@@ -1,0 +1,101 @@
+1) Algorithm tp print lagest of three numbers
+
+step 1- start
+step 2- declare the varibles a,b,c
+step 3- read the varibles a= 6,b=7, c=9
+step 4- if a>b, a>c
+        Display a is the largest number
+else
+       b>c
+       Display bis the gratest number
+else 
+       c is the largets nuber
+step 5- stop
+
+
+2) Algorithm to print 1 to 10 numbers
+step 1- start
+step 2- x=1
+step 3- print x
+step 4- x=x+1
+step 5- if x<=10 then goto step 3 otherwise go to step 6
+step 6 -stop
+
+2)\Algorithm to print 1 to 100 numbers
+step 1- start
+step 2- x=1
+step 3- print x
+step 4- x=x+1
+step 5- if x<=100 then go to step 3 otherwise go to step 6
+step 6- stop
+
+3)Algorothm to print all odd number betwen 1 to 50
+step 1 -start
+step 2- x=1
+step 3- print x
+step 4- X=X+2
+step 5- if x<=50 then goto step 3 oherwise go to step 6
+step 6- stop
+
+4)Algorithm to print even numbers between 0 to 50
+step 1- start
+step 2- x=0
+step 3- print x
+step 4- x=X+2
+step 5- x<=50 then go to step 3 otherwise go to step 6
+step6- stop
+
+5) Algorithm to print all 5 numbers between 1 to 200 numbers
+step 1 - start
+step 2-  x=5
+step 3- print x
+step 4- x=X+5
+step 5- if x<=200 then go to steo 3 otherwise goto step 6
+step 6- stop
+
+6)Algorithm to print the mesage to hello 10 times
+step 1- start
+step 2- int x=1
+step 3- print Hello
+step 4- x=x+1
+step 5- if x<=10 then go to step 3 otherwise go to step6
+step 6- stop
+
+6
+step 1- start
+step 20 int x=1
+step3- print hello
+step4- x=x+1
+step5- if x<=10 then go to step 3otherwise go to step 6
+step 6- stop 
+
+7)Algorithm to print factorial of the number
+step 1- start
+step 2- declare factorial ,n,i
+step 3- factorial =1
+        i=1
+step4- read the valuse of n
+step 5--i<=nthen go to steo 6
+step 6- factorial=facorial*i
+step7- i=i+1 go to step5
+step 8- display factorail
+step 9- stop
+
+7) step 1- start
+step 2- declare factorail,n i
+step3- factoraial =1, i=1
+step 4- read the value of n 
+step 5- if i<=n then go to step 6
+step 6- factorail= factrial*i
+step 7- i=i+1 then go to step5
+step 8- Displkay factorail
+step 9- stop
+
+9) Algorithm to print table of any number
+step 1- start
+step 2- accept no
+step 3- x=4                 
+step 4- print no *x
+step 5- x= x+4 then 
+step 6- if x<=10 then go to step 4
+step 7- stop
